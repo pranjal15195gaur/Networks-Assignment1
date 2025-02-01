@@ -8,7 +8,6 @@ Before proceeding, ensure you have the following tools installed:
 
 - **`pip`**: For installing Python libraries
 - **`sudo`**: For installing system dependencies
-```
 
 ## Step 1: Install System Dependencies
 
