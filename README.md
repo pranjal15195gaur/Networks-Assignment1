@@ -54,7 +54,7 @@ You will need to run the scripts in two different terminal windows to simulate t
     sudo tcpreplay -i eth0 --pps=10000 7.pcap
     ```
 
-3. This will give the output for **Question 1** in both terminals.
+3. This will give the output for **Question 1** in the terminal.
 
 ### For **Question 2**:
 
@@ -70,7 +70,7 @@ You will need to run the scripts in two different terminal windows to simulate t
     sudo tcpreplay -i eth0 --pps=10000 7.pcap
     ```
 
-3. This will give the output for **Question 2** in both terminals.
+3. This will give the output for **Question 2** in the terminal.
 
 ## Notes
 
